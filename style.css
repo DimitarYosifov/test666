@@ -8,6 +8,7 @@ table {
     align-items: center;
     display: flex;
     flex-direction: column;
-    height: 100%;
-    background: gray;
+    height: 50%;
+    width: 50%;
+    background: yellow;
 }
