@@ -3,7 +3,7 @@ html {
     /* position: absolute !important; */
 }
 
-body{
+#main-wrapper{
     justify-content: center;
     align-items: center;
     display: flex;
