@@ -8,6 +8,7 @@ body{
     align-items: center;
     display: flex;
     flex-direction: column;
+    height: 100vh;
 }
 
 table {
@@ -17,5 +18,5 @@ table {
     flex-direction: column;
     height: 50%;
     width: 50%;
-    background: yellow;
+    background: green;
 }
