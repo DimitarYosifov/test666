@@ -3,11 +3,11 @@ html {
     /* position: absolute !important; */
 }
 
-body {
+table {
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
     height: 100%;
-    background: red;
+    background: gray;
 }
