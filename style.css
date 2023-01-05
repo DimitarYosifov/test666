@@ -3,6 +3,13 @@ html {
     /* position: absolute !important; */
 }
 
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
 table {
     justify-content: center;
     align-items: center;
