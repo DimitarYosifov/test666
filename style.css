@@ -20,7 +20,7 @@ table {
     align-items: center;
     display: flex;
     flex-direction: column;
-    height: 50%;
-    width: 50%;
+    height: 70%;
+    width: 70%;
     background: gray;
 }
