@@ -57,7 +57,7 @@
             let res = await fetch('https://api.coindesk.com/v1/bpi/currentprice.json');
             let data = await res.json();
             console.log("666");
-            window.parent.postMessage(data, "*");
+            window.parent.postMessage(data, "*"); 
 
         };
 
