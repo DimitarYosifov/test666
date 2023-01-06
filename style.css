@@ -3,12 +3,16 @@ html {
     /* position: absolute !important; */
 }
 
+body{
+    /* background: #000000d1; */
+}
+
 #main-wrapper{
     justify-content: center;
     align-items: center;
     display: flex;
     flex-direction: column;
-    height: 90vh;
+    height: 100vh;
 }
 
 table {
